@@ -44,7 +44,7 @@ public class TestTree {
         NewTree tree = getNewTree(domains,defaultGroup);
 
         List<String> result = Arrays.asList(
-                "www.hello.com",
+                "www.hello2.com",
                 "a",
                 ".",
                 ",",
